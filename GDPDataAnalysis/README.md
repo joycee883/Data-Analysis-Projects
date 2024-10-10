@@ -6,8 +6,8 @@ This project involves analyzing a dataset containing information about various c
 
 ### 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 
 Programming Language: Python <br>
-Libraries:<br>
 
+Libraries:<br>
 NumPy: For numerical operations.<br>
 Pandas: For data manipulation and analysis.<br>
 Seaborn: For data visualization.<br>
