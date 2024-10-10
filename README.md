@@ -1,21 +1,19 @@
 # DataAnalysisProjects
 
-## Data Insights with Python
-Project Overview
-This project demonstrates how to use Python libraries like OpenPyxl and Pandas to create and manipulate Excel files. It includes:
+## Country GDP Analysis
 
-Data Creation: A sample dataset with employee details (name, domain, age, location, salary, experience) is created and saved to an Excel file.
-Data Analysis: The dataset is read into a Pandas DataFrame for further analysis.
-Visualization: Various visualizations using Seaborn to explore salary distributions and relationships between experience and salary.
+### Project Overview:
 
-## Exploring GenAI through opencv
-Project Overview
-This project demonstrates the use of NumPy and Matplotlib for image processing and array manipulation. Key features include:
+This project involves analyzing a movie dataset using Pandas and NumPy libraries in Python. The dataset includes information about movies, user ratings, and tags. <br>
+The goal is to perform data cleaning, exploratory data analysis, and visualization to gain insights into movie ratings and genres.
 
-Array Creation: Generating arrays filled with ones and zeros using np.ones and np.zeros.
-Image Handling: Loading and converting images to arrays with PIL and NumPy.
-Array Operations: Performing element-wise operations on arrays.
-Visualization: Displaying images and arrays using Matplotlib with various color maps.
+### Key Steps:
+
+Data Loading: Importing datasets for movies, tags, and ratings.<br>
+Data Cleaning: Handling missing values and removing unnecessary columns.<br>
+Descriptive Statistics: Calculating mean, median, and standard deviation for ratings.<br>
+Data Visualization: Using Matplotlib and Seaborn to create histograms and boxplots.<br>
+
 
 ## IPL Player Performance and Salary Analysis
 Project Overview
@@ -26,12 +24,6 @@ Data Visualization: Uses Matplotlib to plot salary trends and game statistics.
 Data Manipulation: Utilizes NumPy for efficient data handling and calculations.
 Player and Season Dictionaries: Maps player names and seasons to indices for easy data access.
 
-## Country GDP Analysis
-Project Overview
-This project analyzes the GDP data of various countries using Python and Pandas. The dataset includes information on:
-Country Details: Names, codes, and income groups1.
-Birth Rates: Birth rates per country.
-Internet Users: Percentage of internet users per country.
 
 Data Cleaning: Handling missing values and data types.
 Descriptive Statistics: Summary statistics for birth rates and internet users.
